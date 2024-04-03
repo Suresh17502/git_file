@@ -1,2 +1,3 @@
 welcome to git 
 git branch
+modifying local git and pushing to gitup
