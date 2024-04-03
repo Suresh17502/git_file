@@ -2,3 +2,5 @@ welcome to git
 git branch
 modifying local git and pushing to gitup
 modifying gitup and pulling it
+modifying branch with local git and pushing it 
+
